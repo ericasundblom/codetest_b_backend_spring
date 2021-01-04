@@ -1,4 +1,4 @@
-# codetest_b_backend_spring
+# ABOUT
 
 This version needs both the repository codetest_b_backend_spring and the repository codetest_b_frontend_angular. The readme tells about both.
 
@@ -15,3 +15,10 @@ For running this project in development mode start both frontend and backend. Th
 Testing backend logic can be done with ./mvnw test from the root of the backend.
 
 I have not seen any purpose of forwarding any more to production.
+
+
+
+
+## LICENSE
+
+This project is only intended as a sample for Crosskey. Licencing follows what the dependecies and so on gives.
